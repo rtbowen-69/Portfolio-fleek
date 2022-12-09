@@ -1,5 +1,5 @@
 // Import Assets
-import uniswap from '../assets/uniswap.png';
+import dapp from '../assets/dapp.png';
 import compound from '../assets/compound.png';
 import aave from '../assets/aave.png';
 
@@ -11,14 +11,12 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>Uniswap</h3>
-                    <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <h3>Dapp Trading</h3>
+                    <img src={dapp} alt="Dapp Token Swap Page" />
+                    <p>This will be my very first project the trading program.
                     </p>
 
-                    <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
+                    <a href="https://dawn-bread-9662.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
                 </div>
 

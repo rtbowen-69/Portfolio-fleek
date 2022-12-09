@@ -4,12 +4,12 @@ import profile from '../assets/profile.png';
 const Header = () => {
     return (
         <section className='header'>
-            <img src={profile} alt="John Doe" />
+            <img src={profile} alt="Rodney Bowen" />
 
             <div className='header__content'>
-                <h1>Hi, I'm John Doe</h1>
-                <p>Blockchain Developer</p>
-                <button className='button'>Get In Touch</button>
+                <h1>Hi, I'm Rodney Bowen</h1>
+                <p>Blockchain/WEB3 Developer</p>
+                <a href="mailto:rtbowen@outlook.com" className='button'>Get In Touch</a>
             </div>
         </section>
     );
