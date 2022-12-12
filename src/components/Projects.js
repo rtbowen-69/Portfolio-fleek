@@ -13,11 +13,11 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Dapp Trading</h3>
                     <img src={dapp} alt="Dapp Token Swap Page" />
-                    <p>This will be my very first project the trading program.
+                    <p>This is the first trading program that I developed through the guidance of a blockchain bootcamp. I learned a lot through this process. The basics of WEB3 and coding.
                     </p>
 
-                    <a href="https://dawn-bread-9662.on.fleek.co/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                    <a href="https://dawn-bread-9662.on.fleek.co//" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/rtbowen-69/portfolio-site" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
