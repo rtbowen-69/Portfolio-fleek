@@ -1,7 +1,7 @@
 // Import Assets
 import dapp from '../assets/dapp.png';
-import compound from '../assets/compound.png';
-import aave from '../assets/aave.png';
+import rodspunkies from '../assets/rodspunkies.png';
+import ethdaddy from '../assets/eth_daddylp.png';
 
 const Projects = () => {
     return (
@@ -17,27 +17,27 @@ const Projects = () => {
                     </p>
 
                     <a href="https://dawn-bread-9662.on.fleek.co//" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/rtbowen-69/portfolio-site" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/rtbowen-69/blockchaindeveloperbootcamp2.0" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
-                    <h3>Compound</h3>
-                    <img src={compound} alt="Compound Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <h3>NFT Minting</h3>
+                    <img src={rodspunkies} alt="NFT Minting Landing Page" />
+                    <p>The very first NFT minting site I developed with the help of DAP University.
+                        Learned how to create and deploy NFTs,
+                        Free mints on the Goerli Test net.
                     </p>
 
-                    <a href="https://compound.finance/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" className="button">Code</a>
+                    <a href="https://shrill-band-1144.on.fleek.co//" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/rtbowen-69/RodsPunkies" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
-                    <h3>Aave</h3>
-                    <img src={aave} alt="Aave Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <h3>ETH Daddy</h3>
+                    <img src={ethdaddy} alt="ETH Daddy Landing Page" />
+                    <p>This is a shell for a Web3 Domain Name service like Go Daddy.
+                        Web3 addresses can be bought and sold on the blockchain as NFTs.
+                        It gets you the security of the blockchain with the immutiability of NFTs.
                     </p>
 
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>

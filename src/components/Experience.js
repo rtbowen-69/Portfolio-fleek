@@ -5,23 +5,24 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>DeVry University, Phoenix AZ </i>, 1983-1986
+                    <i>DeVry University</i> - <strong>Phoenix AZ</strong>, 1983-1986
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Emphasis on coding and business accounting</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>TechPower Solutions</i> - <strong>Redmond WA</strong>, 2016-2021
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Warranty Repair Lead</li>
+                        <li>Warehouse manager</li>
+                        <li>Server component installation & testing</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
-                    <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                    <i>Certified Environmental Services</i> - <strong>Environmental Professional</strong>, 1998-2016<ul>
+                        <li>Computerized the process of producing Phase I Environmental Site Assesments</li>
+                        <li>Performed Environmental site assessments per the ASTM standards</li>
+                        <li>Expanded the business to include Storm Water Services</li>
                     </ul>
                 </li>
             </ul>
