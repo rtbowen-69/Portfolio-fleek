@@ -13,7 +13,9 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Dapp Trading</h3>
                     <img src={dapp} alt="Dapp Token Swap Page" />
-                    <p>This is the first trading program that I developed through the guidance of a blockchain bootcamp. I learned a lot through this process. The basics of WEB3 and coding.
+                    <p>This is the first trading program that I developed through the guidance of a blockchain bootcamp. 
+                        I learned a lot through this process like sending image to IPFS an accessing them. 
+                        The basics of WEB3, Smart Contracts and coding.
                     </p>
 
                     <a href="https://dawn-bread-9662.on.fleek.co//" target="_blank" className="button">Site</a>
@@ -33,14 +35,14 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>ETH Daddy</h3>
+                    <h3>Swif Tees</h3>
                     <img src={ethdaddy} alt="SwifTees NFT's and Ticketing Project" />
-                    <p>This is a shell for a Web3 Domain Name service like Go Daddy.
-                        Web3 addresses can be bought and sold on the blockchain as NFTs.
-                        It gets you the security of the blockchain with the immutiability of NFTs.
+                    <p>This is my first project that I coded on my own with minimal help.
+                        This is a Fan NFT site where owners of the Fan NFT get early access to concert tickets and special events.
+                        This helps fights scalpers and lets true fans pay a fair price for tickets.
                     </p>
 
-                    <a href="https://aave.com/" target="_blank" className="button">Site</a>
+                    <a href="https://cool-haze-8908.on.fleek.co//" target="_blank" className="button">Site</a>
                     <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
                 </div>
             </div>
