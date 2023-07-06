@@ -23,7 +23,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>NFT Minting</h3>
                     <img src={rodspunkies} alt="NFT Minting Landing Page" />
-                    <p>The very first NFT minting site I developed with the help of DAP University.
+                    <p>The very first NFT minting site I developed with the help of DApp University.
                         Learned how to create and deploy NFTs,
                         Free mints on the Goerli Test net.
                     </p>
@@ -34,7 +34,7 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>ETH Daddy</h3>
-                    <img src={ethdaddy} alt="ETH Daddy Landing Page" />
+                    <img src={ethdaddy} alt="SwifTees NFT's and Ticketing Project" />
                     <p>This is a shell for a Web3 Domain Name service like Go Daddy.
                         Web3 addresses can be bought and sold on the blockchain as NFTs.
                         It gets you the security of the blockchain with the immutiability of NFTs.
