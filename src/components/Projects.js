@@ -18,7 +18,7 @@ const Projects = () => {
                         The basics of WEB3 and how Smart Contracts and coding interact with WEB3.
                     </p>
 
-                    <a href="https://dawn-bread-9662.on.fleek.co//" target="_blank" className="button">Site</a>
+                    <a href="https://dawn-bread-9662.on.fleek.co" target="_blank" className="button">Site</a>
                     <a href="https://github.com/rtbowen-69/blockchaindeveloperbootcamp2.0" target="_blank" className="button">Code</a>
                 </div>
 
@@ -30,7 +30,7 @@ const Projects = () => {
                         Free mints on the Goerli Test net.
                     </p>
 
-                    <a href="https://shrill-band-1144.on.fleek.co//" target="_blank" className="button">Site</a>
+                    <a href="https://shrill-band-1144.on.fleek.co" target="_blank" className="button">Site</a>
                     <a href="https://github.com/rtbowen-69/RodsPunkies" target="_blank" className="button">Code</a>
                 </div>
 
@@ -42,8 +42,8 @@ const Projects = () => {
                         This helps fights scalpers and lets true fans pay a fair price for tickets.
                     </p>
 
-                    <a href="https://cool-haze-8908.on.fleek.co//" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
+                    <a href="https://empty-fire-7930.on.fleek.co" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/rtbowen-69/SwifTees.git" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
